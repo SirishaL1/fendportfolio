@@ -1,0 +1,63 @@
+.cont{
+	width: 95%;
+	margin: 0 auto;
+	padding:  1%;
+	border-bottom: 2px solid #ddd;
+	display: flex;
+	flex-direction: row;
+}
+
+.lc{
+   width:  45%;
+   padding: 1%;
+   margin: 1%;
+}
+
+.rc{
+
+      width:  45%;
+      padding: 1%;
+      margin: 1%;
+      text-align:  right;
+}
+
+.lc img{
+	 width: 40%;
+	 height: auto;
+}
+
+.banner{
+	width: 95%;
+	margin: 0 auto;
+	border: 1px solid #ddd;
+
+}
+
+.banner img{
+	width: 100%;
+	height:  auto;
+}
+
+.baby{
+	display: flex;
+	flex-direction:  row;
+	justify-content: center;
+}
+
+.pics{
+	width: 25%;
+	border: 1px solid #ddd;
+	padding: 1%;
+    margin: 1%;
+}
+
+.pics img{
+	width: 70%;
+	height:  auto;
+}
+
+
+h3,
+p{
+	text-align: center;
+}
